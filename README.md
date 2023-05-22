@@ -1,2 +1,2 @@
-# mio-sito è una pubblicazione
+# mio-sito è una nuova pubblicazione
 editoriale
