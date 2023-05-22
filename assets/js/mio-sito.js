@@ -1,3 +1,3 @@
-document.addEventListener("load", function(){
+document.addEventListener("load", (event) => {
     console.log("DOM markup loaded!");
 })
